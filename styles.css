@@ -1,0 +1,21 @@
+body {
+    background-image: url(https://wallpaperaccess.com/full/57962.jpg);
+    user-select: none;
+}
+#diebox {
+    height: 100px;
+    width: 100px;
+    display: inline-block;
+}
+
+.die {
+    display: inline-block;
+    text-align: center;
+    cursor: pointer;
+    font-size: 100px;
+    line-height: 65px;
+}
+
+#dicebox {
+    margin-top: 4em;
+}
