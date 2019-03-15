@@ -11,7 +11,6 @@ jquery_1.default(document).ready(function () {
         function Die() {
             var _this = this;
             this.char = "";
-            this.div = "";
             this.value = 0;
             this.div = jquery_1.default('<div class="diebox mx-3">,</div>');
             this.roll();

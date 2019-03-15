@@ -7,7 +7,6 @@ $(document).ready(function () {
     class Die {
 
         char: string = "";
-        div: any = "";
         public value: number = 0;
         public div: JQuery<HTMLElement>;
 
